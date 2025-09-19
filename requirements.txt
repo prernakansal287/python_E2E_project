@@ -1,2 +1,6 @@
 pandas
 numpy
+python-dotenv #read the environment variables.evn
+mysql-connector-python
+pymysql
+scikit-learn
